@@ -14,10 +14,12 @@ body {
     background-color: hsl(212, 45%, 89%);
     display: flex;
     justify-content: center;
+align-items: center;
+min-height: 100vh;
 }
 
 .card {
-    background-color: cornsilk;
+    background-color: #fff;
     border-radius: 18px;
     margin: 150px 700px;
     text-align: center;
